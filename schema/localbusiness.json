@@ -1,0 +1,36 @@
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalEquipmentStore",
+  "@id": "https://www.southsurreymedicalequipment.com/#medicalequipmentstore",
+  "name": "South Surrey Medical Equipment",
+  "url": "https://www.southsurreymedicalequipment.com",
+  "logo": "https://static.wixstatic.com/media/3bbad5_728e1430b51d429a827fa771da6eb3aa~mv2.png",
+  "image": "https://static.wixstatic.com/media/3bbad5_728e1430b51d429a827fa771da6eb3aa~mv2.png",
+  "description": "Local medical equipment and mobility supply store serving South Surrey and surrounding areas in British Columbia, Canada.",
+  "telephone": "+1-778-545-0102",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "15057 32 Ave #930",
+    "addressLocality": "Surrey",
+    "addressRegion": "BC",
+    "postalCode": "V4P 0A2",
+    "addressCountry": "CA"
+  },
+  "areaServed": [
+    { "@type": "City", "name": "Surrey", "addressRegion": "BC", "addressCountry": "CA" },
+    { "@type": "City", "name": "Delta", "addressRegion": "BC", "addressCountry": "CA" },
+    { "@type": "City", "name": "Burnaby", "addressRegion": "BC", "addressCountry": "CA" },
+    { "@type": "City", "name": "Langley", "addressRegion": "BC", "addressCountry": "CA" },
+    { "@type": "City", "name": "Richmond", "addressRegion": "BC", "addressCountry": "CA" },
+    { "@type": "City", "name": "Coquitlam", "addressRegion": "BC", "addressCountry": "CA" },
+    { "@type": "City", "name": "Vancouver", "addressRegion": "BC", "addressCountry": "CA" },
+    { "@type": "City", "name": "White Rock", "addressRegion": "BC", "addressCountry": "CA" },
+    { "@type": "City", "name": "Newton", "addressRegion": "BC", "addressCountry": "CA" }
+  ],
+  "sameAs": [
+    "https://www.facebook.com/southsurreymedicalequipment",
+    "https://www.instagram.com/southsurreymedicalequipment",
+    "https://x.com/southsurreymed",
+    "https://www.youtube.com/@SouthSurreyMedicalEquipment"
+  ]
+}
